@@ -1,0 +1,1162 @@
+﻿1
+00:00:21,102 --> 00:00:21,748
+Hello, everyone.
+
+2
+00:00:22,130 --> 00:00:23,988
+In this section, we are going to learn
+
+3
+00:00:24,130 --> 00:00:27,546
+the types of organizational structure
+and spatial features.
+
+4
+00:00:27,875 --> 00:00:29,517
+Let's first look at how many
+
+5
+00:00:29,955 --> 00:00:31,727
+types of organizational structures there
+are.
+
+6
+00:00:32,628 --> 00:00:38,720
+According to the practice of most
+organizations,
+
+7
+00:00:38,788 --> 00:00:39,825
+we find that
+
+8
+00:00:40,228 --> 00:00:42,397
+there are usually
+
+9
+00:00:43,327 --> 00:00:45,644
+five types of organizational structures.
+
+10
+00:00:46,210 --> 00:00:47,934
+They are: functional organizational
+structure
+
+11
+00:00:48,684 --> 00:00:49,768
+product organizational structure,
+
+12
+00:00:50,459 --> 00:00:51,434
+geographic organizational structure,
+
+13
+00:00:52,080 --> 00:00:52,983
+customer organizational structure and
+
+14
+00:00:53,653 --> 00:00:54,349
+matrix organizational structure.
+
+15
+00:00:54,675 --> 00:00:59,303
+The last one is the combination of any
+two or three of these four.
+
+16
+00:00:59,712 --> 00:01:01,460
+Let's look at more details about them.
+
+17
+00:01:02,595 --> 00:01:03,946
+First of all,  the functional
+organizational structure.
+
+18
+00:01:04,216 --> 00:01:06,405
+This type of structure
+
+19
+00:01:06,456 --> 00:01:08,589
+groups individuals by specific functions
+performed.
+
+20
+00:01:08,788 --> 00:01:10,465
+In companies which use it,
+
+21
+00:01:11,007 --> 00:01:12,743
+each department has different functions,
+
+22
+00:01:13,297 --> 00:01:14,971
+and all similar functions of the company
+
+23
+00:01:15,368 --> 00:01:17,149
+are grouped in one department.
+
+24
+00:01:17,875 --> 00:01:19,540
+For example, an industrial corporation
+
+25
+00:01:19,908 --> 00:01:21,105
+can be divided into
+
+26
+00:01:21,985 --> 00:01:23,197
+manufacturing department,
+
+27
+00:01:23,694 --> 00:01:25,991
+the marketing department, the finance
+department
+
+28
+00:01:26,462 --> 00:01:27,597
+the R&D department
+
+29
+00:01:27,854 --> 00:01:29,377
+the human resources department, etc.
+
+30
+00:01:30,245 --> 00:01:32,183
+The division of labour is clear-cut,
+
+31
+00:01:32,551 --> 00:01:33,617
+each one being charged with specific
+responsibilities.
+
+32
+00:01:34,008 --> 00:01:35,327
+In this figure,
+
+33
+00:01:35,327 --> 00:01:36,088
+we can see that
+
+34
+00:01:36,337 --> 00:01:37,940
+in the headquarters of the company,
+
+35
+00:01:38,038 --> 00:01:39,617
+departments are classfied according to
+
+36
+00:01:39,789 --> 00:01:42,068
+different functions.
+
+37
+00:01:42,106 --> 00:01:43,837
+For example function A, function B
+
+38
+00:01:43,860 --> 00:01:46,237
+Function C,Function D and so on.
+
+39
+00:01:46,743 --> 00:01:48,888
+So, this is the introduction of the
+functional department.
+
+40
+00:01:49,259 --> 00:01:52,616
+Secondly, product organizational
+structure.
+
+41
+00:01:52,962 --> 00:01:56,293
+Companies that follow this
+
+42
+00:01:56,545 --> 00:01:57,745
+organizes products by category.
+
+43
+00:01:58,216 --> 00:01:59,137
+For example, the automobile industry.
+
+44
+00:01:59,555 --> 00:02:01,312
+In an automobile company,
+
+45
+00:02:01,600 --> 00:02:04,349
+cars,
+
+46
+00:02:04,865 --> 00:02:06,551
+trucks, buses
+
+47
+00:02:06,856 --> 00:02:08,894
+and agricultural machinery can be
+produced by different departments.
+
+48
+00:02:09,211 --> 00:02:11,531
+But such kind of division can lead to
+
+49
+00:02:12,494 --> 00:02:16,420
+a relatively loose management
+
+50
+00:02:16,533 --> 00:02:17,522
+in the company.
+
+51
+00:02:17,626 --> 00:02:18,645
+In such case,
+
+52
+00:02:19,128 --> 00:02:20,328
+Although there are some managers
+
+53
+00:02:20,397 --> 00:02:23,131
+in the headquarters responsible for
+
+54
+00:02:24,237 --> 00:02:27,484
+the whole system of management,
+
+55
+00:02:28,257 --> 00:02:29,762
+each product group
+
+56
+00:02:30,162 --> 00:02:33,188
+will have an executive or
+
+57
+00:02:33,602 --> 00:02:34,640
+some managers.
+
+58
+00:02:34,853 --> 00:02:36,871
+That is to say, staff is reasonably
+arranged.
+
+59
+00:02:37,460 --> 00:02:38,613
+Product organizational structure
+
+60
+00:02:38,900 --> 00:02:41,152
+is usually adopted by companies
+
+61
+00:02:41,448 --> 00:02:43,567
+that produce a wide range of products or
+by some
+
+62
+00:02:43,902 --> 00:02:46,035
+diversified companies
+
+63
+00:02:46,352 --> 00:02:48,293
+whose products are greatly different.
+
+64
+00:02:48,835 --> 00:02:50,002
+We can find in the figure that at the
+top of the hierarchy,
+
+65
+00:02:50,278 --> 00:02:51,845
+it is still the headquarters.
+
+66
+00:02:51,991 --> 00:02:53,422
+And below are
+
+67
+00:02:53,650 --> 00:02:57,514
+product groups according to product
+types.
+
+68
+00:02:57,807 --> 00:02:59,902
+Thirdly, geographic organizational
+structure.
+
+69
+00:03:00,334 --> 00:03:02,032
+Its name suggests that
+
+70
+00:03:02,251 --> 00:03:04,124
+departments are divided
+
+71
+00:03:04,577 --> 00:03:05,780
+according to regions.
+
+72
+00:03:05,780 --> 00:03:08,000
+That is to say, some departments are
+located close to the needed facilities,
+
+73
+00:03:08,628 --> 00:03:10,568
+while some are
+
+74
+00:03:10,580 --> 00:03:13,321
+close to customers.
+
+75
+00:03:14,266 --> 00:03:17,528
+Such companies are divided into
+departments
+
+76
+00:03:17,807 --> 00:03:19,594
+according to regions and
+
+77
+00:03:19,982 --> 00:03:22,148
+have nothing to do with functional
+products.
+
+78
+00:03:22,391 --> 00:03:24,011
+All activities
+
+79
+00:03:24,245 --> 00:03:26,542
+in certain regions
+
+80
+00:03:26,954 --> 00:03:28,308
+are managed by
+
+81
+00:03:28,669 --> 00:03:30,894
+the company's branch in that area.
+
+82
+00:03:31,300 --> 00:03:33,617
+So, that is the introduction of
+geographic organizational structure.
+
+83
+00:03:33,774 --> 00:03:35,285
+Below the headquarters,
+
+84
+00:03:35,475 --> 00:03:36,894
+there are
+
+85
+00:03:37,247 --> 00:03:39,096
+region A, region B and region C, etc.
+
+86
+00:03:39,374 --> 00:03:40,628
+all divided by the geographical factors.
+
+87
+00:03:41,155 --> 00:03:43,057
+How many main operating areas there are,
+
+88
+00:03:43,250 --> 00:03:44,871
+how many divisions will be set.
+
+89
+00:03:45,188 --> 00:03:46,397
+So, that's the point I want to stress.
+
+90
+00:03:46,788 --> 00:03:48,782
+Fourthly, customer organizational
+structure.
+
+91
+00:03:49,128 --> 00:03:52,293
+Certain industries
+
+92
+00:03:52,533 --> 00:03:53,380
+will organize by customer type.
+
+93
+00:03:54,432 --> 00:03:56,791
+According to this principle,
+
+94
+00:03:57,007 --> 00:03:58,414
+Each division serves for
+
+95
+00:03:59,054 --> 00:04:01,822
+one customer group and
+
+96
+00:04:02,906 --> 00:04:05,093
+does not need to consider the location
+of customers.
+
+97
+00:04:06,192 --> 00:04:09,466
+This is done in an effort to ensure
+specific customer expectations are met
+by a customized service approach.
+
+98
+00:04:10,097 --> 00:04:11,730
+For example, commercial banks.
+
+99
+00:04:12,320 --> 00:04:13,214
+Most of them
+
+100
+00:04:13,496 --> 00:04:14,945
+have personal credit,
+
+101
+00:04:15,677 --> 00:04:16,749
+corporate credit
+
+102
+00:04:17,075 --> 00:04:19,685
+housing mortgage and trust departments.
+
+103
+00:04:19,925 --> 00:04:23,108
+These are obviously divided by
+
+104
+00:04:23,484 --> 00:04:25,315
+customers' different needs.
+
+105
+00:04:26,394 --> 00:04:29,368
+The last one is matrix organizational
+structure.
+
+106
+00:04:29,674 --> 00:04:31,368
+This structure is a mix of
+
+107
+00:04:31,368 --> 00:04:33,143
+two or more
+
+108
+00:04:33,143 --> 00:04:35,143
+organizational structures
+
+109
+00:04:35,365 --> 00:04:36,408
+we just mentioned.
+
+110
+00:04:36,687 --> 00:04:38,429
+These four structures
+
+111
+00:04:38,429 --> 00:04:39,472
+have certain advantages
+
+112
+00:04:39,715 --> 00:04:40,794
+as well as disadvantages,
+
+113
+00:04:41,007 --> 00:04:43,976
+so some companies choose to
+
+114
+00:04:44,020 --> 00:04:44,657
+combine two or more of them,
+
+115
+00:04:44,939 --> 00:04:46,663
+in an effort to take advantage of their
+respective strengths.
+
+116
+00:04:46,817 --> 00:04:48,447
+For example, some companies
+
+117
+00:04:48,447 --> 00:04:50,749
+adopt a functional organizational
+structure under the geographic
+organizational structure
+
+118
+00:04:51,072 --> 00:04:52,631
+while some use a product organizational
+structure structure
+
+119
+00:04:52,631 --> 00:04:53,982
+under the geographic organizational
+structure.
+
+120
+00:04:54,183 --> 00:04:55,419
+To help you understand, I
+
+121
+00:04:55,629 --> 00:04:58,062
+will introduce you what sorts of
+organizational structures banks would
+use.
+
+122
+00:04:58,210 --> 00:05:00,077
+I will take four largest banks in
+mainland China as the example.
+
+123
+00:05:00,317 --> 00:05:01,208
+With headquarters in Beijing,
+
+124
+00:05:01,546 --> 00:05:03,496
+they set up provincial branches in each
+province and
+
+125
+00:05:03,819 --> 00:05:05,872
+prefecture branches in each region.
+
+126
+00:05:06,074 --> 00:05:08,139
+Obviously, branches are divided by
+areas.
+
+127
+00:05:08,370 --> 00:05:09,371
+Inside each bank, however,
+
+128
+00:05:09,588 --> 00:05:11,520
+they would adopt the customer
+organizational structure.
+
+129
+00:05:11,777 --> 00:05:13,602
+So that is the matrix organizational
+structure adopted by banks.
+
+130
+00:05:13,831 --> 00:05:16,284
+Most corporations in our daily life
+
+131
+00:05:16,515 --> 00:05:18,906
+adopt that structure.
+
+132
+00:05:19,022 --> 00:05:19,991
+It is rare to see
+
+133
+00:05:20,035 --> 00:05:21,688
+companies who only
+
+134
+00:05:21,979 --> 00:05:23,294
+use one organizational structure.
+
+135
+00:05:23,644 --> 00:05:24,948
+Then, we are going to
+
+136
+00:05:25,398 --> 00:05:28,737
+focus on the spatial features of these
+organizational structures or
+
+137
+00:05:29,487 --> 00:05:32,456
+we say the spatial differences of
+
+138
+00:05:32,800 --> 00:05:35,069
+these organizational structures.
+
+139
+00:05:35,514 --> 00:05:36,924
+Here we pay greater attention to three
+of them,
+
+140
+00:05:37,558 --> 00:05:38,610
+they are: functional organizational
+structure,
+
+141
+00:05:38,951 --> 00:05:41,259
+product organizational structure and
+geographic organizational structure.
+
+142
+00:05:41,937 --> 00:05:43,842
+In the commonly used textbook "Economic
+Geography",
+
+143
+00:05:43,842 --> 00:05:45,869
+the editor Li Xiaojian
+
+144
+00:05:45,869 --> 00:05:49,208
+uses Stroh Brewery Company as a case
+study.
+
+145
+00:05:49,837 --> 00:05:52,317
+Thia company was a large beer brewery
+
+146
+00:05:52,592 --> 00:05:53,863
+located in Detroit,
+
+147
+00:05:54,400 --> 00:05:55,934
+Michigan, United States.
+
+148
+00:05:56,080 --> 00:05:58,337
+In the picture, the place where the star
+is marked is Detroit.
+
+149
+00:05:59,709 --> 00:06:01,511
+It is obvious to find that this company
+
+150
+00:06:01,899 --> 00:06:04,278
+adopted the functional organizational
+structure.
+
+151
+00:06:04,583 --> 00:06:06,518
+In a brewery, for example,
+
+152
+00:06:06,518 --> 00:06:07,697
+production function requires
+
+153
+00:06:07,718 --> 00:06:09,620
+production and purchasing.
+
+154
+00:06:10,091 --> 00:06:13,214
+The whole production function is managed
+by one vice president.
+
+155
+00:06:13,469 --> 00:06:15,496
+Then, the marketing.
+
+156
+00:06:15,825 --> 00:06:18,082
+Promoting beer is a
+
+157
+00:06:18,162 --> 00:06:19,442
+a very important job for a beer company.
+
+158
+00:06:19,801 --> 00:06:22,746
+And all marketing businesses are
+
+159
+00:06:22,785 --> 00:06:23,866
+managed by marketing department.
+
+160
+00:06:24,094 --> 00:06:25,567
+So a president is needed
+
+161
+00:06:25,816 --> 00:06:26,808
+in the marketing department.
+
+162
+00:06:27,140 --> 00:06:28,619
+Similarly, the human resources
+department
+
+163
+00:06:28,957 --> 00:06:30,145
+also needs a manager to control.
+
+164
+00:06:30,358 --> 00:06:31,982
+Judging from its spatial distribution,
+
+165
+00:06:32,183 --> 00:06:35,321
+most of Stroh Brewery 's  departments
+were located in the eastern part of the
+United States,
+
+166
+00:06:35,531 --> 00:06:37,688
+so its spatial structure was relatively
+concentrated.
+
+167
+00:06:37,875 --> 00:06:38,948
+The next case
+
+168
+00:06:39,448 --> 00:06:40,838
+we are going to look at is
+
+169
+00:06:40,862 --> 00:06:41,727
+about product organizational structure.
+
+170
+00:06:42,157 --> 00:06:44,328
+I want to show you the example of
+
+171
+00:06:44,628 --> 00:06:45,949
+Atlas Copco company.
+
+172
+00:06:47,149 --> 00:06:48,263
+It is a
+
+173
+00:06:48,669 --> 00:06:51,416
+world-leading corporation
+
+174
+00:06:51,914 --> 00:06:54,874
+headquartered in stockholm, Sweden.
+
+175
+00:06:55,685 --> 00:06:57,617
+It has three
+
+176
+00:06:58,165 --> 00:06:59,866
+major business areas
+
+177
+00:06:59,866 --> 00:07:01,309
+which are grouped according to product
+types.
+
+178
+00:07:01,656 --> 00:07:03,567
+First, industrial construction
+department,
+
+179
+00:07:03,845 --> 00:07:05,460
+then, vacuum technique department and
+
+180
+00:07:05,638 --> 00:07:06,642
+finally technique related department
+
+181
+00:07:06,705 --> 00:07:08,133
+these three departments.
+
+182
+00:07:08,414 --> 00:07:09,745
+It has many plants.
+
+183
+00:07:09,928 --> 00:07:10,933
+One thing special about it that
+
+184
+00:07:11,031 --> 00:07:12,725
+each of its product is produced by many
+factories and
+
+185
+00:07:12,841 --> 00:07:14,450
+these factories are located in many
+countries.
+
+186
+00:07:14,637 --> 00:07:15,582
+Another point is that
+
+187
+00:07:15,682 --> 00:07:17,771
+the production of each product
+
+188
+00:07:17,979 --> 00:07:19,958
+is managed by factories in one country.
+
+189
+00:07:20,186 --> 00:07:22,115
+For example, the industrial construction
+technique
+
+190
+00:07:22,272 --> 00:07:24,776
+is mainly in the charge of departments
+in Sweden；
+
+191
+00:07:24,868 --> 00:07:26,894
+the vacuum technique is in the charge of
+departments in Belgium；
+
+192
+00:07:27,217 --> 00:07:29,620
+the technique department is also
+
+193
+00:07:29,620 --> 00:07:31,416
+in the charge of factories in Sweden.
+
+194
+00:07:31,727 --> 00:07:32,637
+In this way,
+
+195
+00:07:32,690 --> 00:07:37,259
+Atlas Copco guarantees its dominant
+position in the international market.
+
+196
+00:07:37,745 --> 00:07:40,050
+And its spatial structure
+
+197
+00:07:40,509 --> 00:07:41,730
+is quite dispersed.
+
+198
+00:07:41,813 --> 00:07:43,665
+Compared with the company who uses
+functional organizational structure,
+
+199
+00:07:43,665 --> 00:07:44,841
+the structure of brewery company we just
+mentioned
+
+200
+00:07:45,120 --> 00:07:46,278
+is much more scattered.
+
+201
+00:07:46,885 --> 00:07:48,000
+This is because Atlas Copco manufactures
+products in many countries,
+
+202
+00:07:48,097 --> 00:07:50,322
+even including those in both sides of
+the Atlantic.
+
+203
+00:07:50,814 --> 00:07:52,124
+Such a kind of decentralized layout.
+
+204
+00:07:52,980 --> 00:07:54,761
+Next, let's focus on the spatial
+features of
+
+205
+00:07:54,814 --> 00:07:57,327
+geographic organizational structure.
+
+206
+00:07:57,721 --> 00:08:00,139
+I want to show you the example of AGA
+Corporation.
+
+207
+00:08:00,705 --> 00:08:02,930
+It also has a lot of business areas and
+
+208
+00:08:02,957 --> 00:08:04,337
+its products are quite diversified.
+
+209
+00:08:04,349 --> 00:08:05,048
+In the early days,
+
+210
+00:08:05,048 --> 00:08:07,321
+its main business was
+
+211
+00:08:07,555 --> 00:08:08,678
+glass production.
+
+212
+00:08:08,933 --> 00:08:11,514
+This company is a quite typical one who
+adopts
+
+213
+00:08:11,534 --> 00:08:12,272
+the geographic organizational structure.
+
+214
+00:08:12,465 --> 00:08:14,595
+To improve your understanding,
+
+215
+00:08:14,699 --> 00:08:15,540
+let's look at the figure 20,
+
+216
+00:08:15,869 --> 00:08:18,977
+those big black circles are regional
+headquarters.
+
+217
+00:08:19,282 --> 00:08:21,579
+That is to say, AGA sets up headquarters
+in each region
+
+218
+00:08:21,777 --> 00:08:23,084
+to manage
+
+219
+00:08:23,294 --> 00:08:25,576
+the production and operation activities
+in this area.
+
+220
+00:08:25,718 --> 00:08:27,546
+One thing interesting about the
+
+221
+00:08:27,611 --> 00:08:28,290
+European headquarters and
+
+222
+00:08:28,308 --> 00:08:28,968
+North American headquarters
+
+223
+00:08:29,108 --> 00:08:30,462
+is that
+
+224
+00:08:30,562 --> 00:08:31,638
+concerning AGA's four headquarters,
+
+225
+00:08:31,677 --> 00:08:33,182
+there are three headquarters in
+
+226
+00:08:33,182 --> 00:08:33,801
+Europe, two of which are
+
+227
+00:08:33,842 --> 00:08:35,028
+South American headquarters 1
+
+228
+00:08:35,028 --> 00:08:35,721
+and South American headquarters 2.
+
+229
+00:08:36,023 --> 00:08:37,567
+Why are the South American headquarters
+here?
+
+230
+00:08:38,136 --> 00:08:40,088
+This is because though the South
+American market was relatively large
+
+231
+00:08:40,346 --> 00:08:41,712
+back to the 1980s，
+
+232
+00:08:41,780 --> 00:08:42,637
+for AGA yet,
+
+233
+00:08:42,885 --> 00:08:45,362
+at that time,
+
+234
+00:08:45,940 --> 00:08:48,666
+the South American market was just
+entered,
+
+235
+00:08:48,874 --> 00:08:50,577
+and putting headquarters in
+
+236
+00:08:50,577 --> 00:08:53,404
+Europe can be safer.
+
+237
+00:08:53,594 --> 00:08:55,131
+Why Europe was better?
+
+238
+00:08:55,466 --> 00:09:00,115
+This was because this can help to
+
+239
+00:09:00,352 --> 00:09:03,863
+communicate with the European
+headquarters (the biggest one ) more
+efficiently,
+
+240
+00:09:04,133 --> 00:09:08,225
+in an effort to promote the development
+of the South American market.
+
+241
+00:09:08,539 --> 00:09:10,115
+So, that's the introduction of the
+spatial structure
+
+242
+00:09:10,115 --> 00:09:12,708
+of AGA Corporation.
+
+243
+00:09:13,170 --> 00:09:14,992
+We can therefore tell that
+
+244
+00:09:15,247 --> 00:09:18,314
+AGA's spatial structure is much more
+dispersed than the two companies I just
+mentioned.
+
+245
+00:09:18,518 --> 00:09:19,635
+Its headquarters are located on all
+
+246
+00:09:19,760 --> 00:09:20,560
+continents around the world.
+
+247
+00:09:20,841 --> 00:09:22,921
+So this is all about the
+
+248
+00:09:23,176 --> 00:09:24,571
+analysis we did regarding
+
+249
+00:09:24,657 --> 00:09:26,927
+the relationship between companies'
+organizational structures
+
+250
+00:09:27,155 --> 00:09:28,752
+and spatial features.
+
+251
+00:09:29,117 --> 00:09:30,832
+Before finishing this course, I have one
+question for you to think about.
+
+252
+00:09:31,146 --> 00:09:32,865
+The case studies we just talked are all
+foreign companies
+
+253
+00:09:32,865 --> 00:09:33,925
+and quite old.
+
+254
+00:09:34,047 --> 00:09:35,517
+So, I want you to think more about
+Chinese firms.
+
+255
+00:09:35,768 --> 00:09:37,511
+What are the organizational structure
+
+256
+00:09:37,588 --> 00:09:39,102
+and spatial features of Chinese
+companies?
+
+257
+00:09:39,333 --> 00:09:41,700
+For example, can you
+
+258
+00:09:42,029 --> 00:09:43,395
+analyze Shanghai Electric or
+
+259
+00:09:43,472 --> 00:09:45,677
+Shanghai Zhenhua Heavy Industries these
+corporations in Shanghai?
+
+260
+00:09:45,893 --> 00:09:47,905
+What are their organizational structures
+
+261
+00:09:47,991 --> 00:09:49,635
+and spatial features
+
+262
+00:09:49,902 --> 00:09:50,782
+look like?
+
+263
+00:09:50,951 --> 00:09:52,515
+What about corporations in other cities
+of China?
+
+264
+00:09:52,515 --> 00:09:53,117
+For example, Huawei in Dongguan,
+Guangzhou.
+
+265
+00:09:53,608 --> 00:09:55,496
+What are the innovations of
+
+266
+00:09:55,840 --> 00:09:59,822
+Huawei's organizational structure and
+
+267
+00:09:59,917 --> 00:10:03,798
+its global spatial features?
+
+268
+00:10:04,130 --> 00:10:06,601
+That's all for today.
+
+269
+00:10:06,874 --> 00:10:07,715
+Thank you.
+

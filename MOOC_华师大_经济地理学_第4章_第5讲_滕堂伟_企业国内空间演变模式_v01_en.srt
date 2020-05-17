@@ -1,0 +1,1382 @@
+﻿1
+00:00:21,200 --> 00:00:22,112
+Hello, everyone.
+
+2
+00:00:22,462 --> 00:00:23,694
+Previously, we have learned
+
+3
+00:00:24,020 --> 00:00:27,155
+some basic laws of enterprise spatial expansion.
+
+4
+00:00:27,819 --> 00:00:29,626
+Following these laws,
+
+5
+00:00:29,626 --> 00:00:30,616
+when enterprises  expand,
+
+6
+00:00:31,028 --> 00:00:34,062
+what their specific modes are?
+
+7
+00:00:34,660 --> 00:00:36,906
+Regarding this issue,
+
+8
+00:00:36,906 --> 00:00:38,447
+economic geographers conducted a series of studies and
+
+9
+00:00:38,728 --> 00:00:41,792
+summarized two kinds of patterns.
+
+10
+00:00:43,380 --> 00:00:46,124
+One is the domestic spatial evolution mode of enterprises;
+
+11
+00:00:46,391 --> 00:00:47,991
+the other is
+
+12
+00:00:48,174 --> 00:00:51,114
+international spatial evolution mode of enterprises.
+
+13
+00:00:51,365 --> 00:00:55,573
+So, first, let's discuss the
+
+14
+00:00:55,845 --> 00:00:58,764
+domestic spatial evolution mode of enterprises.
+
+15
+00:00:59,354 --> 00:01:01,472
+In this section,
+
+16
+00:01:01,591 --> 00:01:04,808
+I am going to introduce you two representative models of it.
+
+17
+00:01:05,122 --> 00:01:08,634
+The first one is Watts' market area expansion model.
+
+18
+00:01:09,031 --> 00:01:13,170
+It was proposed by Watts in 1980,
+
+19
+00:01:13,419 --> 00:01:16,882
+which is based on research on the British brewing industry.
+
+20
+00:01:17,229 --> 00:01:20,551
+It explains the expansion processes
+
+21
+00:01:20,856 --> 00:01:22,915
+of many small companies
+
+22
+00:01:23,081 --> 00:01:25,191
+due to merger.
+
+23
+00:01:26,056 --> 00:01:29,931
+He assumed that in the studied area,
+
+24
+00:01:30,296 --> 00:01:32,634
+cities and towns are evenly distributed.
+
+25
+00:01:33,351 --> 00:01:35,602
+And each town has one company.
+
+26
+00:01:36,705 --> 00:01:39,022
+The company has only one production facility
+
+27
+00:01:39,226 --> 00:01:40,500
+or one factory.
+
+28
+00:01:40,897 --> 00:01:42,740
+These factories produce the same products.
+
+29
+00:01:42,740 --> 00:01:44,038
+That indicates the homogeneity of the product and
+
+30
+00:01:44,275 --> 00:01:47,226
+there is no difference in product quality.
+
+31
+00:01:48,408 --> 00:01:50,367
+Factories sell products in their own market areas.
+
+32
+00:01:50,696 --> 00:01:52,225
+That is to say, selling goods nearby.
+
+33
+00:01:52,874 --> 00:01:54,957
+But due to
+
+34
+00:01:54,957 --> 00:01:56,560
+the different scale of urban population,
+
+35
+00:01:57,143 --> 00:01:58,678
+people in
+
+36
+00:01:58,888 --> 00:02:00,672
+different cities and towns
+
+37
+00:02:01,247 --> 00:02:02,675
+vary greatly.
+
+38
+00:02:03,066 --> 00:02:05,362
+So, here comes to the next issue.
+
+39
+00:02:05,745 --> 00:02:08,720
+Enterprises have different market demands
+
+40
+00:02:08,945 --> 00:02:11,428
+and their production scales are different.
+
+41
+00:02:11,869 --> 00:02:13,736
+Such difference in production scale
+
+42
+00:02:14,014 --> 00:02:16,497
+can lead to the differences in production costs.
+
+43
+00:02:17,460 --> 00:02:19,321
+That means economies of scale are at work.
+
+44
+00:02:19,967 --> 00:02:21,167
+Larger factories
+
+45
+00:02:21,167 --> 00:02:22,207
+have relatively low production cost,
+
+46
+00:02:22,823 --> 00:02:25,182
+so they have an initial competitive advantage
+
+47
+00:02:25,611 --> 00:02:28,245
+and are more likely to grow faster.
+
+48
+00:02:28,779 --> 00:02:30,684
+For the expansion model of market area,
+
+49
+00:02:31,268 --> 00:02:32,429
+to help you understand the assumptions,
+
+50
+00:02:32,429 --> 00:02:35,668
+I am going to explain the diagram on the screen to you.
+
+51
+00:02:35,940 --> 00:02:37,748
+On this figure, we can see that
+
+52
+00:02:38,026 --> 00:02:39,028
+market area expansion model
+
+53
+00:02:39,051 --> 00:02:41,179
+is separated into t1 t2 t3 t4
+
+54
+00:02:42,183 --> 00:02:43,445
+four stages.
+
+55
+00:02:43,774 --> 00:02:45,623
+For the first stage,
+
+56
+00:02:45,671 --> 00:02:46,811
+stage t1,
+
+57
+00:02:46,962 --> 00:02:49,866
+we see that there are 25 companies in the researched area.
+
+58
+00:02:50,254 --> 00:02:52,121
+I want you to pay attention to the 25 companies,
+
+59
+00:02:52,142 --> 00:02:54,118
+which is the number in this picture.
+
+60
+00:02:54,539 --> 00:02:56,800
+From pictures t1 to t4,
+
+61
+00:02:57,108 --> 00:02:59,413
+we can notice that there is a black dot in the lower left corner of each one.
+
+62
+00:02:59,457 --> 00:03:01,525
+The big black dots have nothing to do
+with the number of companies,
+
+63
+00:03:01,911 --> 00:03:04,094
+but the size of them.
+
+64
+00:03:04,660 --> 00:03:06,539
+In stage t1,
+
+65
+00:03:06,557 --> 00:03:09,840
+there are 25 companies.
+
+66
+00:03:10,151 --> 00:03:12,589
+What I want to remind you is that 1 7 3
+in the diagram
+
+67
+00:03:13,090 --> 00:03:15,321
+don't mean 1 company,
+
+68
+00:03:15,321 --> 00:03:16,557
+3 companies or 7 companies,
+
+69
+00:03:16,909 --> 00:03:19,090
+but the size of them.
+
+70
+00:03:19,262 --> 00:03:20,388
+What else can them refer to ?
+
+71
+00:03:20,562 --> 00:03:21,754
+Well, they also refer to
+
+72
+00:03:21,958 --> 00:03:24,687
+the population size of towns served by
+enterprises.
+
+73
+00:03:25,010 --> 00:03:26,293
+So, this is the first point I want you
+to pay attention.
+
+74
+00:03:26,530 --> 00:03:27,964
+After a period of development,
+
+75
+00:03:27,964 --> 00:03:29,425
+in stage t4,
+
+76
+00:03:29,780 --> 00:03:31,798
+we can see that only 3 companies left.
+
+77
+00:03:32,325 --> 00:03:33,605
+In this stage,
+
+78
+00:03:33,780 --> 00:03:36,088
+the dot in the bottom left corner is 60.
+
+79
+00:03:36,379 --> 00:03:37,475
+What does 60 mean?
+
+80
+00:03:37,499 --> 00:03:39,241
+Well, it indicates the size of this
+company.
+
+81
+00:03:39,407 --> 00:03:40,000
+In other words, this company
+
+82
+00:03:40,195 --> 00:03:43,496
+merged with some other companies，
+
+83
+00:03:44,269 --> 00:03:46,536
+and 60 refers to
+
+84
+00:03:46,720 --> 00:03:47,549
+the scale after merging.
+
+85
+00:03:47,694 --> 00:03:48,328
+So, that's explanation of 60.
+
+86
+00:03:49,125 --> 00:03:51,271
+And other numbers represent the same
+thing.
+
+87
+00:03:51,677 --> 00:03:55,303
+The only difference is that there are
+only 3 companies left in stage t4.
+
+88
+00:03:56,788 --> 00:03:57,558
+In the diagram,
+
+89
+00:03:57,558 --> 00:03:59,348
+the black dot here represents companies.
+
+90
+00:04:00,325 --> 00:04:01,671
+I guess you may wonder
+
+91
+00:04:01,884 --> 00:04:03,484
+why there are 4 black dots.
+
+92
+00:04:04,708 --> 00:04:06,823
+This is because in the t4 stage,
+
+93
+00:04:06,850 --> 00:04:10,299
+the black dot at the top left
+
+94
+00:04:10,521 --> 00:04:13,440
+is a branch factory
+
+95
+00:04:13,440 --> 00:04:16,002
+or a sub-factory
+
+96
+00:04:16,254 --> 00:04:18,358
+of the company whose size is 60.
+
+97
+00:04:18,868 --> 00:04:21,517
+This place has a large market,
+
+98
+00:04:22,085 --> 00:04:22,927
+so factories tend to be
+
+99
+00:04:23,265 --> 00:04:24,850
+located here.
+
+100
+00:04:25,007 --> 00:04:26,761
+But these two belong to one single
+company.
+
+101
+00:04:27,395 --> 00:04:28,488
+Such kind of meaning.
+
+102
+00:04:29,428 --> 00:04:30,648
+Correspondingly,
+
+103
+00:04:30,648 --> 00:04:35,659
+the market area of ​​those companies
+
+104
+00:04:35,840 --> 00:04:36,699
+who have survived and expanded has also
+been expanded,
+
+105
+00:04:37,611 --> 00:04:40,909
+covering the market area of ​​many small
+companies
+
+106
+00:04:41,188 --> 00:04:45,146
+And it ’s the hexagon we talked about in
+previous lectures.
+
+107
+00:04:46,204 --> 00:04:47,045
+So, finally,
+
+108
+00:04:47,081 --> 00:04:50,420
+after four stages' mergers,
+
+109
+00:04:50,740 --> 00:04:53,914
+such kind of market area is formed.
+
+110
+00:04:54,322 --> 00:04:56,026
+Next, we are going to focus on
+
+111
+00:04:56,228 --> 00:04:58,225
+the applicability of this model.
+
+112
+00:04:58,826 --> 00:05:03,087
+It illustrates that companies with
+initial cost advantages
+
+113
+00:05:03,454 --> 00:05:06,518
+continuously expand outward in the
+market area by
+
+114
+00:05:06,699 --> 00:05:09,262
+merging many neighboring small
+businesses.
+
+115
+00:05:10,000 --> 00:05:11,700
+It is true in most cases.
+
+116
+00:05:12,237 --> 00:05:13,985
+But there are some uncertainties we need
+to pay attention.
+
+117
+00:05:14,462 --> 00:05:15,250
+The first is that
+
+118
+00:05:15,502 --> 00:05:17,291
+it is developed on the assumption of
+economies of scale.
+
+119
+00:05:17,582 --> 00:05:19,045
+Or we say economies of scale here is the
+
+120
+00:05:19,045 --> 00:05:20,145
+momentum
+
+121
+00:05:20,891 --> 00:05:21,834
+or the driving force.
+
+122
+00:05:22,681 --> 00:05:25,120
+But, in some sectors where economies of
+scale are not prominent,
+
+123
+00:05:25,354 --> 00:05:26,103
+it may not that applicable .
+
+124
+00:05:26,536 --> 00:05:28,497
+While, in the beverage industry
+
+125
+00:05:28,497 --> 00:05:30,497
+or the brewing industry we just
+mentioned,
+
+126
+00:05:31,057 --> 00:05:33,765
+its economies of scale in production are
+outstanding,
+
+127
+00:05:34,106 --> 00:05:35,691
+its sales are targeting at the public
+
+128
+00:05:35,949 --> 00:05:38,361
+and the quality of the products
+
+129
+00:05:38,414 --> 00:05:39,611
+is not much different,
+
+130
+00:05:39,688 --> 00:05:42,737
+so this industry's sales volume is
+closely related to its scale
+
+131
+00:05:42,974 --> 00:05:46,841
+and the sales volume is closely related
+to the price.
+
+132
+00:05:46,841 --> 00:05:48,841
+That is to say, consumers demand of this
+industry have
+
+133
+00:05:49,013 --> 00:05:50,640
+price sensitivity,
+
+134
+00:05:50,663 --> 00:05:51,496
+or the price elasticity,
+
+135
+00:05:51,973 --> 00:05:54,340
+which further strengthens the economies
+of scale.
+
+136
+00:05:55,401 --> 00:05:57,685
+For companies that
+
+137
+00:05:57,902 --> 00:06:00,127
+produce some parts of the products,
+
+138
+00:06:00,405 --> 00:06:02,077
+their spatial expansion
+
+139
+00:06:02,657 --> 00:06:03,715
+may not like this.
+
+140
+00:06:04,257 --> 00:06:05,520
+Another point you need to focus on is
+that
+
+141
+00:06:05,703 --> 00:06:07,202
+it is assumed that
+
+142
+00:06:07,202 --> 00:06:10,702
+the market area expands in an ideal way.
+
+143
+00:06:11,463 --> 00:06:13,994
+But in reality,
+
+144
+00:06:14,349 --> 00:06:16,213
+there may be a discontinuous market
+expansion
+
+145
+00:06:16,343 --> 00:06:17,828
+due to some conditions.
+
+146
+00:06:18,198 --> 00:06:19,487
+Or we say the market area expansion
+
+147
+00:06:19,487 --> 00:06:20,527
+we talk about here
+
+148
+00:06:20,779 --> 00:06:24,263
+is a very typical contagious diffusion.
+
+149
+00:06:24,808 --> 00:06:28,734
+In fact, this model does not consider
+
+150
+00:06:29,010 --> 00:06:31,362
+the hierarchy diffusion
+
+151
+00:06:31,404 --> 00:06:32,702
+or channel diffusion
+
+152
+00:06:32,897 --> 00:06:34,314
+or transportation and diffusion
+
+153
+00:06:34,577 --> 00:06:36,645
+these forms of diffusion.
+
+154
+00:06:36,882 --> 00:06:39,105
+Next, the second model we are going to
+introduce in
+
+155
+00:06:39,437 --> 00:06:41,493
+the domestic spatial evolution mode of
+enterprises is
+
+156
+00:06:41,709 --> 00:06:43,795
+Taylor's enterprises metamorphosis model
+and
+
+157
+00:06:44,160 --> 00:06:46,314
+the spatial evolution model.
+
+158
+00:06:46,782 --> 00:06:49,294
+This model was
+
+159
+00:06:49,294 --> 00:06:51,620
+proposed by Taylor in 1975.
+
+160
+00:06:52,328 --> 00:06:54,035
+It also aims to
+
+161
+00:06:54,322 --> 00:06:57,517
+explain a company's spatial expansion
+process within a country.
+
+162
+00:06:58,317 --> 00:07:00,228
+But different from Watts',
+
+163
+00:07:00,551 --> 00:07:02,091
+his regional evolution model
+
+164
+00:07:02,361 --> 00:07:04,948
+was based on the British ironmaking
+industry.
+
+165
+00:07:05,202 --> 00:07:09,048
+If we say Watts focused on light
+industry,
+
+166
+00:07:09,294 --> 00:07:10,660
+Taylor's research object
+
+167
+00:07:10,660 --> 00:07:11,410
+was a heavy industry.
+
+168
+00:07:13,185 --> 00:07:16,459
+Taylor also analyzed the mechanism of
+
+169
+00:07:16,482 --> 00:07:18,053
+the evolution process in detail.
+
+170
+00:07:18,364 --> 00:07:19,931
+Now, let's look at
+
+171
+00:07:21,004 --> 00:07:23,505
+some key concepts in
+
+172
+00:07:23,505 --> 00:07:24,930
+Taylor's enterprises metamorphosis model
+and
+
+173
+00:07:24,930 --> 00:07:26,251
+regional evolution model.
+
+174
+00:07:26,574 --> 00:07:28,651
+He distinguished four spatial scales.
+
+175
+00:07:28,850 --> 00:07:30,521
+The first one is the local, the smallest
+scale.
+
+176
+00:07:30,927 --> 00:07:32,080
+the second one, the regional,
+
+177
+00:07:32,251 --> 00:07:33,517
+the third one, the national,
+
+178
+00:07:33,810 --> 00:07:35,028
+the fourth one,  the multinational.
+
+179
+00:07:35,339 --> 00:07:36,779
+So,  there are four spatial scales.
+
+180
+00:07:37,114 --> 00:07:38,897
+Next point, three thresholds.
+
+181
+00:07:39,271 --> 00:07:40,441
+What three thresholds?
+
+182
+00:07:40,734 --> 00:07:44,080
+The company has to
+
+183
+00:07:44,121 --> 00:07:47,114
+cross three thresholds
+
+184
+00:07:47,780 --> 00:07:49,371
+when expanding from the local to the
+multinational.
+
+185
+00:07:49,680 --> 00:07:51,511
+In this figure,
+
+186
+00:07:51,543 --> 00:07:53,780
+three thresholds are clearly marked
+here.
+
+187
+00:07:54,210 --> 00:07:55,602
+These three thresholds
+
+188
+00:07:55,825 --> 00:07:57,682
+are closely related to the three spaces
+
+189
+00:07:58,005 --> 00:07:59,072
+we are going to talk about.
+
+190
+00:07:59,614 --> 00:08:01,428
+Each time a threshold is crossed,
+
+191
+00:08:01,866 --> 00:08:04,500
+a metamorphosis of the enterprise is
+caused.
+
+192
+00:08:05,318 --> 00:08:06,933
+In crossing the threshold,
+
+193
+00:08:07,614 --> 00:08:09,197
+the company's activity space
+
+194
+00:08:09,576 --> 00:08:12,154
+which is also called physical contact
+space
+
+195
+00:08:12,201 --> 00:08:14,693
+is a specific scope of business.
+
+196
+00:08:14,980 --> 00:08:16,909
+It is the fastest.
+
+197
+00:08:17,395 --> 00:08:18,874
+Then, the information space.
+
+198
+00:08:19,534 --> 00:08:21,280
+Finally,  the decision space.
+
+199
+00:08:21,528 --> 00:08:23,374
+The last space crosses
+
+200
+00:08:23,531 --> 00:08:24,761
+relatively slow.
+
+201
+00:08:25,777 --> 00:08:27,582
+So that is the introduction of the
+metamorphosis model.
+
+202
+00:08:27,973 --> 00:08:29,128
+Taylor's model
+
+203
+00:08:29,128 --> 00:08:31,128
+integrates such a spatial scale
+
+204
+00:08:31,336 --> 00:08:35,268
+thresholds and metamorphosis.
+
+205
+00:08:36,071 --> 00:08:37,285
+Next, let's look at the
+
+206
+00:08:37,285 --> 00:08:38,936
+evolution mechanism of enterprise
+metamorphosis.
+
+207
+00:08:39,241 --> 00:08:41,294
+Concerning such mechanism,
+
+208
+00:08:41,294 --> 00:08:45,167
+we first discuss from the establishment
+of the enterprise.
+
+209
+00:08:45,685 --> 00:08:48,565
+Location is very important for the
+establishment of new enterprises.
+
+210
+00:08:48,660 --> 00:08:50,767
+Many studies show that hometowns
+
+211
+00:08:51,635 --> 00:08:52,699
+are the places
+
+212
+00:08:53,647 --> 00:08:56,598
+where the entreprises
+
+213
+00:08:56,835 --> 00:09:00,634
+tend to locate their factories at the
+beginning of businesses.
+
+214
+00:09:00,817 --> 00:09:03,280
+Why people choose to start a business in
+their hometowns?
+
+215
+00:09:03,697 --> 00:09:06,139
+Mainly because people have grwon here
+and
+
+216
+00:09:06,562 --> 00:09:08,767
+they have some social contact or they
+are familiar with such places.
+
+217
+00:09:09,457 --> 00:09:10,482
+So thinking about it in this way,
+
+218
+00:09:10,702 --> 00:09:13,768
+we can see that hometown is an activity
+space.
+
+219
+00:09:14,068 --> 00:09:17,700
+People control a lot of
+
+220
+00:09:17,931 --> 00:09:19,238
+information space over this space.
+
+221
+00:09:20,044 --> 00:09:21,416
+After the company is established,
+
+222
+00:09:21,754 --> 00:09:23,315
+the company's activity space,
+
+223
+00:09:23,457 --> 00:09:25,908
+ information space and decision space
+are limited to the local.
+
+224
+00:09:26,228 --> 00:09:27,250
+In the process of the expansion of
+
+225
+00:09:27,567 --> 00:09:29,374
+the information space and decision space
+
+226
+00:09:29,600 --> 00:09:30,725
+by the activity space,
+
+227
+00:09:30,942 --> 00:09:33,223
+we can think about why such kind of
+expansion occurs?
+
+228
+00:09:33,303 --> 00:09:34,485
+At the beginning, for example
+
+229
+00:09:34,580 --> 00:09:35,730
+the business is relatively small,
+
+230
+00:09:35,801 --> 00:09:36,948
+once the company satisfys the local
+market,
+
+231
+00:09:36,968 --> 00:09:38,263
+and operates well,
+
+232
+00:09:38,379 --> 00:09:39,736
+have customers outside the local,
+
+233
+00:09:39,783 --> 00:09:41,241
+by this time,
+
+234
+00:09:41,591 --> 00:09:44,002
+the physical activity space can be
+expanded.
+
+235
+00:09:44,480 --> 00:09:46,017
+As the physical activity space expands,
+
+236
+00:09:46,017 --> 00:09:48,779
+you have to understand the information
+outside the local,
+
+237
+00:09:48,844 --> 00:09:51,760
+the market demand outside of local.
+
+238
+00:09:52,077 --> 00:09:54,841
+At this time, on such basis, companies
+make decisions
+
+239
+00:09:55,072 --> 00:09:56,817
+to produce, sell and
+
+240
+00:09:56,862 --> 00:09:57,671
+transport.
+
+241
+00:09:58,222 --> 00:10:00,115
+So then the physical space
+
+242
+00:10:00,444 --> 00:10:03,534
+information space and decision space
+begin to cross.
+
+243
+00:10:04,213 --> 00:10:08,189
+While, at this time, the entreprise
+metamorphosis
+
+244
+00:10:08,234 --> 00:10:09,330
+is caused.
+
+245
+00:10:09,757 --> 00:10:11,757
+So, metamorphosis becomes the
+
+246
+00:10:12,053 --> 00:10:14,554
+thresholds and obstacles in the
+development of business organization.
+
+247
+00:10:15,383 --> 00:10:17,925
+Here we also need to look at
+
+248
+00:10:18,171 --> 00:10:20,740
+enterprises' spatial expansion
+
+249
+00:10:20,788 --> 00:10:22,477
+in the context of risk and uncertainty.
+
+250
+00:10:22,565 --> 00:10:24,471
+Why we keep emphasizing the improtance
+of
+
+251
+00:10:24,471 --> 00:10:25,641
+information space and decision space?
+
+252
+00:10:25,899 --> 00:10:27,840
+Because they are related to the issues
+of risks.
+
+253
+00:10:28,121 --> 00:10:30,838
+To be more specific, sales agencies
+
+254
+00:10:31,185 --> 00:10:32,394
+have the lowest risks and
+
+255
+00:10:32,634 --> 00:10:33,748
+do not require additional investment.
+
+256
+00:10:33,834 --> 00:10:35,505
+But setting up a sales department
+
+257
+00:10:35,952 --> 00:10:37,641
+or building a warehouse in a place
+
+258
+00:10:38,050 --> 00:10:39,010
+can occupy a lot of space and
+
+259
+00:10:39,306 --> 00:10:41,200
+the land rent can be high.
+
+260
+00:10:41,259 --> 00:10:42,847
+Specialized management is also needed.
+
+261
+00:10:43,143 --> 00:10:44,832
+All of these require much capital
+investment.
+
+262
+00:10:44,832 --> 00:10:46,011
+So it's more risky.
+
+263
+00:10:46,740 --> 00:10:49,860
+Perhaps you may ask why not just build a
+factory over there?
+
+264
+00:10:50,281 --> 00:10:53,176
+Well, I want to say factory costs much
+more.
+
+265
+00:10:53,280 --> 00:10:54,957
+Land, production lines,
+
+266
+00:10:55,268 --> 00:10:58,053
+equipment, employees, and production
+
+267
+00:10:58,311 --> 00:11:00,160
+all need quite a large amount of
+investment.
+
+268
+00:11:00,432 --> 00:11:01,733
+Once the investment fails,
+
+269
+00:11:01,866 --> 00:11:03,857
+entreprises will be hit hard.
+
+270
+00:11:04,201 --> 00:11:07,448
+Taylor also developed a
+
+271
+00:11:07,703 --> 00:11:09,466
+idealized entreprise spatial expansion
+model
+
+272
+00:11:09,611 --> 00:11:11,395
+In this model,
+
+273
+00:11:11,591 --> 00:11:13,697
+it is assumed that a country is divided
+into four regions.
+
+274
+00:11:13,715 --> 00:11:15,351
+Let's look at the upper right corner of
+this picture，
+
+275
+00:11:15,442 --> 00:11:17,611
+the 3 big black dots in the three
+regions
+
+276
+00:11:17,798 --> 00:11:20,980
+show that there are three big industrial
+agglomeration centres.
+
+277
+00:11:21,031 --> 00:11:22,942
+And three little white circles
+
+278
+00:11:23,078 --> 00:11:26,112
+refer to three smaller secondary urban
+centers.
+
+279
+00:11:26,322 --> 00:11:27,520
+Under such a regional pattern,
+
+280
+00:11:27,537 --> 00:11:29,632
+let's see how a local company
+
+281
+00:11:29,822 --> 00:11:31,851
+expands into a national one?
+
+282
+00:11:32,000 --> 00:11:34,112
+If entreprises want to cross to other
+regions,
+
+283
+00:11:34,391 --> 00:11:35,525
+they should cross the first threshold.
+
+284
+00:11:35,748 --> 00:11:37,185
+Then, how?
+
+285
+00:11:37,422 --> 00:11:39,442
+Well, a sales office can be set up
+
+286
+00:11:39,680 --> 00:11:42,320
+in the adjacent area.
+
+287
+00:11:42,613 --> 00:11:44,082
+Or to reduce the risk to the minimal,
+
+288
+00:11:44,248 --> 00:11:46,933
+a sales agency
+
+289
+00:11:47,739 --> 00:11:48,568
+or an agent
+
+290
+00:11:49,288 --> 00:11:50,127
+can be formed here.
+
+291
+00:11:50,717 --> 00:11:53,146
+Enterprises can also form a sales
+office, helping
+
+292
+00:11:53,869 --> 00:11:55,395
+sells products in another region.
+
+293
+00:11:56,299 --> 00:11:58,053
+That's the way how to cross the space.
+
+294
+00:11:58,545 --> 00:12:00,281
+So, to summarize, we can say that
+enterprises can
+
+295
+00:12:00,580 --> 00:12:03,351
+experience metamorphosis by
+
+296
+00:12:03,351 --> 00:12:04,142
+such kind of way of spatial expansion.
+
+297
+00:12:04,394 --> 00:12:08,251
+From a regional or local factory, or
+
+298
+00:12:08,394 --> 00:12:11,546
+an entreprise with only one department
+
+299
+00:12:11,727 --> 00:12:14,616
+to a multi-functional, multi-location
+
+300
+00:12:14,785 --> 00:12:17,182
+multi-factory and multi-sector
+
+301
+00:12:17,229 --> 00:12:19,090
+national one.
+
+302
+00:12:19,250 --> 00:12:20,248
+Following this principle,
+
+303
+00:12:20,284 --> 00:12:21,484
+you guys can analyze the spatial
+expansion more.
+
+304
+00:12:21,742 --> 00:12:24,948
+Enterprises can even become a
+multinational one.
+
+305
+00:12:25,309 --> 00:12:27,176
+Surely, operating in different countries
+
+306
+00:12:27,188 --> 00:12:29,108
+can be more challengeable and more risky
+
+307
+00:12:29,108 --> 00:12:30,562
+compared with just doing businesses at
+home.
+
+308
+00:12:30,776 --> 00:12:32,074
+That is to say, the thresholds
+
+309
+00:12:32,302 --> 00:12:34,237
+or information spaces
+
+310
+00:12:34,574 --> 00:12:38,136
+and decision spaces can be stronger.
+
+311
+00:12:39,487 --> 00:12:41,576
+So that is the explanation of
+
+312
+00:12:41,591 --> 00:12:44,302
+Taylor's enterprise metamorphosis and
+spatial evolution model.
+
+313
+00:12:44,684 --> 00:12:49,042
+It is easy for you to understand through
+such a diagram.
+
+314
+00:12:49,680 --> 00:12:51,259
+Before finishing this lecture, I have a
+question for you to think about.
+
+315
+00:12:51,623 --> 00:12:52,660
+Try to compare the similarities and
+differences
+
+316
+00:12:52,992 --> 00:12:55,007
+between the Watts' model and
+
+317
+00:12:55,324 --> 00:12:57,650
+Taylor's model and
+
+318
+00:12:57,917 --> 00:12:59,792
+and these models'
+
+319
+00:13:00,201 --> 00:13:01,946
+practical application.
+
+320
+00:13:02,305 --> 00:13:03,294
+Can we
+
+321
+00:13:03,543 --> 00:13:06,213
+find a typical business case in China
+
+322
+00:13:06,533 --> 00:13:09,585
+to see how it was developed?
+
+323
+00:13:09,703 --> 00:13:11,973
+So, that's all for
+
+324
+00:13:12,310 --> 00:13:15,911
+the study of domestic space expansion
+model.
+
+325
+00:13:16,085 --> 00:13:16,859
+This is the end of this section.
+
+326
+00:13:16,974 --> 00:13:17,472
+Thank you.
+

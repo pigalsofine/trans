@@ -1,0 +1,1350 @@
+﻿1
+00:00:21,137 --> 00:00:21,760
+Hello, everyone.
+
+2
+00:00:22,470 --> 00:00:24,213
+In this section, we are going to learn
+
+3
+00:00:24,213 --> 00:00:27,265
+the international spatial evolution mode
+of enterprises.
+
+4
+00:00:27,831 --> 00:00:29,419
+Today' s lecture focuses on
+
+5
+00:00:29,442 --> 00:00:32,915
+two representative models.
+
+6
+00:00:33,185 --> 00:00:36,648
+The first one is Hakansson's global
+expansion model.
+
+7
+00:00:37,460 --> 00:00:39,312
+So, let's get started.
+
+8
+00:00:39,700 --> 00:00:43,042
+The first idea we need to understand is
+
+9
+00:00:43,354 --> 00:00:45,291
+the spatial structure of the
+enterprise's expansion.
+
+10
+00:00:45,582 --> 00:00:46,933
+In this model,
+
+11
+00:00:47,188 --> 00:00:48,142
+we can see that
+
+12
+00:00:48,456 --> 00:00:52,139
+Hakansson divided the space of
+enterprise's expansion
+
+13
+00:00:52,687 --> 00:00:54,038
+into several parts.
+
+14
+00:00:54,266 --> 00:00:55,205
+In Figure 16,
+
+15
+00:00:55,200 --> 00:00:57,200
+the innermost represents
+
+16
+00:00:57,478 --> 00:00:59,487
+the first centre of the enterprise.
+
+17
+00:00:59,632 --> 00:01:01,395
+The circle outside the center
+
+18
+00:01:01,647 --> 00:01:03,997
+is a national market area,
+
+19
+00:01:04,420 --> 00:01:05,282
+or the national market.
+
+20
+00:01:05,614 --> 00:01:07,422
+It is the expanded area from the centre
+and
+
+21
+00:01:07,422 --> 00:01:10,278
+where large enterprises tend to locate.
+
+22
+00:01:10,616 --> 00:01:12,586
+Or it is the area where big companies
+are formed.
+
+23
+00:01:12,850 --> 00:01:14,912
+To be more specific,
+
+24
+00:01:15,164 --> 00:01:16,868
+it is the area where an enterprise
+
+25
+00:01:16,951 --> 00:01:19,013
+can expand from a local one to a
+national one.
+
+26
+00:01:19,496 --> 00:01:22,080
+Looking further, it is the outermost
+circle.
+
+27
+00:01:22,382 --> 00:01:23,863
+This circle means
+
+28
+00:01:24,088 --> 00:01:26,435
+markets in other countries or districts.
+
+29
+00:01:27,108 --> 00:01:29,469
+Hakansson divided such market into four
+parts.
+
+30
+00:01:29,730 --> 00:01:32,512
+Each part refers to different foreign
+market.
+
+31
+00:01:32,794 --> 00:01:34,394
+Now, I want you guys to pay attention to
+
+32
+00:01:34,734 --> 00:01:37,552
+the dotted part.
+
+33
+00:01:37,647 --> 00:01:38,275
+What does that
+
+34
+00:01:38,800 --> 00:01:40,171
+foreign market mean?
+
+35
+00:01:40,548 --> 00:01:44,251
+Well, it refers to the market with low
+proximity.
+
+36
+00:01:45,872 --> 00:01:48,776
+That is to say,
+
+37
+00:01:48,942 --> 00:01:50,414
+transporting goods from the central
+place or the domestic market
+
+38
+00:01:50,414 --> 00:01:52,728
+to this place can cost relatively a lot.
+
+39
+00:01:53,635 --> 00:01:54,711
+This is the first possibility.
+
+40
+00:01:54,995 --> 00:01:56,734
+The second possibility is cultural
+differences,
+
+41
+00:01:57,712 --> 00:02:00,865
+the recognition of the target market is
+low, and it's hard to enter.
+
+42
+00:02:01,715 --> 00:02:03,620
+The third one is tariff barriers
+
+43
+00:02:03,620 --> 00:02:05,351
+or the trade restrictions
+
+44
+00:02:05,659 --> 00:02:07,360
+are too high or too much,
+
+45
+00:02:08,118 --> 00:02:10,456
+which make it harder to enter such
+market.
+
+46
+00:02:11,001 --> 00:02:13,057
+So, that's the features of this market.
+
+47
+00:02:14,071 --> 00:02:15,786
+Next, let's explore how entreprises
+
+48
+00:02:16,162 --> 00:02:18,551
+expand in
+
+49
+00:02:18,690 --> 00:02:19,481
+such place.
+
+50
+00:02:19,644 --> 00:02:21,437
+Hakansson divided such an expansion
+
+51
+00:02:21,437 --> 00:02:22,527
+into four stages.
+
+52
+00:02:22,642 --> 00:02:25,380
+For the momentum of expansion ,
+
+53
+00:02:25,638 --> 00:02:27,783
+he followed a core concept,
+
+54
+00:02:28,062 --> 00:02:29,389
+the market access.
+
+55
+00:02:29,611 --> 00:02:30,927
+The expansion of the market is
+
+56
+00:02:31,448 --> 00:02:34,717
+the primary driving force for the
+spatial expansion of enterprises.
+
+57
+00:02:34,865 --> 00:02:36,272
+The first stage is the
+
+58
+00:02:36,669 --> 00:02:38,118
+the time when enterprises are
+established.
+
+59
+00:02:38,278 --> 00:02:40,571
+Companies rely on the local environment
+a lot.
+
+60
+00:02:40,894 --> 00:02:42,000
+New companies are often
+
+61
+00:02:42,000 --> 00:02:43,789
+located in the place where founders live
+or work,
+
+62
+00:02:43,831 --> 00:02:46,998
+just like what we said, the hometown or
+
+63
+00:02:47,345 --> 00:02:49,105
+some agglomeration places,
+
+64
+00:02:49,362 --> 00:02:50,598
+industrial clusters and so on.
+
+65
+00:02:51,057 --> 00:02:53,834
+Before production and operation,
+
+66
+00:02:54,038 --> 00:02:55,878
+the location has been decided.
+
+67
+00:02:56,041 --> 00:02:57,318
+In figure 17,
+
+68
+00:02:57,469 --> 00:02:58,539
+we can see that
+
+69
+00:02:58,711 --> 00:03:01,075
+there is a black dot in the innermost
+circle.
+
+70
+00:03:01,114 --> 00:03:03,448
+That is the original location of the
+factory.
+
+71
+00:03:03,546 --> 00:03:07,072
+Early expansion is usually the outcome
+
+72
+00:03:07,070 --> 00:03:08,657
+of increased production capacity due to
+increased demand.
+
+73
+00:03:09,013 --> 00:03:11,182
+Expansion is often achieved by capital
+increase.
+
+74
+00:03:11,736 --> 00:03:14,426
+When the capital increase is restricted
+by the site,
+
+75
+00:03:15,081 --> 00:03:16,542
+or some other limitations,
+
+76
+00:03:16,773 --> 00:03:18,097
+the location will be changed.
+
+77
+00:03:18,500 --> 00:03:20,791
+How?
+
+78
+00:03:21,146 --> 00:03:23,217
+Relocating or building a branch.
+
+79
+00:03:24,056 --> 00:03:25,528
+Then, the spatial expansion
+
+80
+00:03:25,546 --> 00:03:27,128
+might occur.
+
+81
+00:03:28,471 --> 00:03:30,145
+Looking at the figure, we can see that
+
+82
+00:03:30,856 --> 00:03:32,791
+enterprises mianly expand in the central
+place or
+
+83
+00:03:32,791 --> 00:03:34,930
+around the original location.
+
+84
+00:03:35,365 --> 00:03:36,637
+In the second stage,
+
+85
+00:03:37,019 --> 00:03:38,755
+If the local market
+
+86
+00:03:39,152 --> 00:03:40,311
+can't grow as fast as what
+
+87
+00:03:40,586 --> 00:03:43,605
+the enterprises expect for,
+
+88
+00:03:43,804 --> 00:03:45,718
+the marketing activities will soon be
+
+89
+00:03:46,044 --> 00:03:48,118
+expanded to the domestic market outside
+the region.
+
+90
+00:03:48,352 --> 00:03:49,662
+So company marketing activities
+
+91
+00:03:49,905 --> 00:03:52,320
+can soon be launched in other places.
+
+92
+00:03:52,651 --> 00:03:56,405
+While increased business scale and
+differentiation of business objectives
+can
+
+93
+00:03:56,962 --> 00:04:00,343
+make the company transform from one
+plant to multiple plants.
+
+94
+00:04:00,491 --> 00:04:02,154
+The sales channels and
+
+95
+00:04:02,257 --> 00:04:04,619
+the design of the wholesale network
+
+96
+00:04:04,859 --> 00:04:06,414
+can also be affected by many factors.
+
+97
+00:04:06,743 --> 00:04:08,248
+Relevant sales organizations
+
+98
+00:04:08,631 --> 00:04:11,709
+will choose to locate as much as close
+to the
+
+99
+00:04:11,709 --> 00:04:13,105
+consumers and clients.
+
+100
+00:04:13,200 --> 00:04:15,146
+So we can see in the second stage,
+
+101
+00:04:15,197 --> 00:04:17,345
+to sell in the domestic market,
+
+102
+00:04:17,404 --> 00:04:19,306
+enterprises either to set up sales
+offices or
+
+103
+00:04:19,854 --> 00:04:20,779
+to build factories.
+
+104
+00:04:20,817 --> 00:04:22,165
+Even if they don’t build factories,
+
+105
+00:04:22,373 --> 00:04:23,534
+they would at least set up sales
+organizations
+
+106
+00:04:23,958 --> 00:04:25,653
+to build a national sales network.
+
+107
+00:04:25,739 --> 00:04:28,580
+And the original factory is responsible
+for
+
+108
+00:04:28,788 --> 00:04:30,770
+supplying goods.
+
+109
+00:04:31,469 --> 00:04:32,871
+The third stage,
+
+110
+00:04:33,238 --> 00:04:35,662
+as the market expands further and
+
+111
+00:04:35,928 --> 00:04:38,482
+the company almost dominates the
+national market,
+
+112
+00:04:39,057 --> 00:04:40,865
+the sales volumes rise rapidly.
+
+113
+00:04:41,048 --> 00:04:42,542
+And the enterprise will expand so fast
+that
+
+114
+00:04:42,542 --> 00:04:43,840
+forming a national big one.
+
+115
+00:04:44,074 --> 00:04:46,592
+When they have the ability to expand
+further,
+
+116
+00:04:47,466 --> 00:04:49,754
+they would consider
+
+117
+00:04:49,754 --> 00:04:51,075
+foreign markets.
+
+118
+00:04:51,765 --> 00:04:53,994
+So we say in Economic Geography,
+
+119
+00:04:54,242 --> 00:04:56,340
+we regard enterprise's export ability
+
+120
+00:04:56,364 --> 00:04:58,020
+export volumes
+
+121
+00:04:58,216 --> 00:04:59,582
+and net exports as a significant
+competitive factor
+
+122
+00:04:59,582 --> 00:05:00,352
+of the enterprise.
+
+123
+00:05:00,811 --> 00:05:04,008
+Then, how companies expand overseas
+market?
+
+124
+00:05:04,776 --> 00:05:06,829
+Well, Hakansson's explanation can answer
+it.
+
+125
+00:05:07,191 --> 00:05:11,555
+Companies will first seek to promote its
+products abroad,
+
+126
+00:05:11,730 --> 00:05:14,826
+usually in those with good exports.
+
+127
+00:05:15,054 --> 00:05:16,322
+And then establish some sales agents
+
+128
+00:05:16,429 --> 00:05:18,183
+or choose some overseas agents.
+
+129
+00:05:18,426 --> 00:05:20,752
+So the agents in this picture is
+represented with
+
+130
+00:05:20,906 --> 00:05:22,634
+herringbone symbol.
+
+131
+00:05:22,705 --> 00:05:24,468
+It has the lowest risk.
+
+132
+00:05:24,518 --> 00:05:25,662
+If companies choose to establish sales
+agents
+
+133
+00:05:25,712 --> 00:05:26,894
+in those countries,
+
+134
+00:05:26,986 --> 00:05:27,934
+the risk can be higher.
+
+135
+00:05:28,059 --> 00:05:30,414
+Surely, this is under the condition when
+the market is very optimistic.
+
+136
+00:05:31,028 --> 00:05:32,897
+In other words, sales agents think the
+market is very good
+
+137
+00:05:33,078 --> 00:05:33,804
+and has great potential.
+
+138
+00:05:34,308 --> 00:05:36,127
+The company would then establish its own
+sales department in these countries,
+
+139
+00:05:36,183 --> 00:05:38,675
+or to purchase a previous agent
+
+140
+00:05:38,962 --> 00:05:40,080
+and upgrade it into a sales department.
+
+141
+00:05:40,198 --> 00:05:41,682
+This is the second pattern.
+
+142
+00:05:42,237 --> 00:05:43,422
+Through this pattern,
+
+143
+00:05:43,437 --> 00:05:45,608
+enterprises can open the targeted
+country's market quickly.
+
+144
+00:05:45,917 --> 00:05:46,957
+The fourth stage,
+
+145
+00:05:47,108 --> 00:05:49,220
+the overseas market expands very fast.
+
+146
+00:05:49,546 --> 00:05:53,226
+If enterprises still produce
+domestically,
+
+147
+00:05:53,579 --> 00:05:55,626
+and supply foreign markets by export,
+
+148
+00:05:55,970 --> 00:05:57,997
+the transportation volume can be very
+huge.
+
+149
+00:05:58,242 --> 00:06:00,023
+Huge transportation volume can lead to
+
+150
+00:06:00,328 --> 00:06:02,168
+high transportation cost.
+
+151
+00:06:02,349 --> 00:06:04,607
+Since the costs go up, the product
+prices will be increased too.
+
+152
+00:06:04,687 --> 00:06:05,641
+And finally, the products may not that
+competitive.
+
+153
+00:06:05,762 --> 00:06:07,505
+By this time, there are two choices for
+enterprises.
+
+154
+00:06:07,500 --> 00:06:09,789
+First, producing in the native market,
+
+155
+00:06:10,020 --> 00:06:11,078
+Second, export.
+
+156
+00:06:11,579 --> 00:06:13,961
+If the cost of the first one is
+
+157
+00:06:14,005 --> 00:06:15,745
+higher than the latter one,
+
+158
+00:06:16,115 --> 00:06:18,462
+the rational choice for the enterprises
+is to
+
+159
+00:06:18,684 --> 00:06:21,463
+build a factory in the local market.
+
+160
+00:06:21,659 --> 00:06:23,120
+In such case,
+
+161
+00:06:23,496 --> 00:06:28,026
+the enterprise is no longer a national
+one,
+
+162
+00:06:28,284 --> 00:06:30,897
+but a multinational company
+
+163
+00:06:31,028 --> 00:06:33,493
+which builds factories
+
+164
+00:06:33,780 --> 00:06:34,882
+in multiple countries.
+
+165
+00:06:34,897 --> 00:06:36,293
+Such a kind of multi-location company.
+
+166
+00:06:36,503 --> 00:06:37,834
+Looking back at the figure,
+
+167
+00:06:38,080 --> 00:06:38,826
+in the dotted circle
+
+168
+00:06:38,826 --> 00:06:40,826
+we just mentioned represents the
+
+169
+00:06:40,995 --> 00:06:43,149
+market which is hard to enter.
+
+170
+00:06:43,534 --> 00:06:45,931
+So by this time, as the
+
+171
+00:06:46,183 --> 00:06:47,703
+company operation improves and
+
+172
+00:06:48,225 --> 00:06:49,031
+scale expands,
+
+173
+00:06:49,300 --> 00:06:52,429
+some sales agents can be set up or
+
+174
+00:06:52,788 --> 00:06:55,386
+some factories can be built here.
+
+175
+00:06:55,751 --> 00:06:57,327
+That means investing overseas
+
+176
+00:06:57,451 --> 00:06:58,794
+and building factories over there allow
+enterprises
+
+177
+00:06:59,051 --> 00:07:00,560
+to become a local enterprise.
+
+178
+00:07:00,832 --> 00:07:02,213
+Then they can supply nearby
+
+179
+00:07:02,453 --> 00:07:06,097
+and avoid trade barriers.
+
+180
+00:07:07,108 --> 00:07:08,882
+So that is the basic ideas of
+Hakansson's
+
+181
+00:07:08,882 --> 00:07:12,862
+global expansion model.
+
+182
+00:07:13,262 --> 00:07:15,777
+Then, another point,
+
+183
+00:07:16,100 --> 00:07:17,831
+what is the expansion momentum?
+
+184
+00:07:18,731 --> 00:07:20,204
+Well, two words can summarize it.
+
+185
+00:07:20,376 --> 00:07:21,540
+that is,
+
+186
+00:07:23,117 --> 00:07:25,623
+market occupation.
+
+187
+00:07:26,210 --> 00:07:27,226
+Surely, it is not the
+
+188
+00:07:27,226 --> 00:07:28,610
+only momentum behind entreprises'
+spatial expansion.
+
+189
+00:07:28,684 --> 00:07:30,595
+I want to remind you that
+
+190
+00:07:30,909 --> 00:07:32,080
+in some cases,
+
+191
+00:07:32,417 --> 00:07:35,531
+factors such as ensuring the supply of
+raw materials (close to raw materials)
+
+192
+00:07:36,317 --> 00:07:39,188
+and using cheap labor
+
+193
+00:07:39,540 --> 00:07:41,514
+can make the entreprise invest in
+
+194
+00:07:41,514 --> 00:07:43,514
+building the factory or merge with other
+factories.
+
+195
+00:07:43,842 --> 00:07:45,911
+In China,
+
+196
+00:07:46,112 --> 00:07:47,715
+many enterprises or
+
+197
+00:07:47,982 --> 00:07:49,066
+foreign investment enterprises
+
+198
+00:07:49,354 --> 00:07:52,545
+are close to the origin of raw
+materials.
+
+199
+00:07:52,903 --> 00:07:54,071
+So, that's all about Hakansson's model.
+
+200
+00:07:54,408 --> 00:07:55,961
+So, next, I am going to introduce you
+
+201
+00:07:56,160 --> 00:07:57,961
+Dicken's global shift.
+
+202
+00:07:58,560 --> 00:08:01,825
+Dicken is a famous economic geographer
+
+203
+00:08:01,848 --> 00:08:03,294
+who studies globalization
+
+204
+00:08:03,324 --> 00:08:05,223
+and a representative of the Manchester
+School.
+
+205
+00:08:05,407 --> 00:08:07,300
+Global shift is one of his classic
+theories.
+
+206
+00:08:07,440 --> 00:08:09,223
+This model was
+
+207
+00:08:09,588 --> 00:08:11,982
+proposed by Dicken in 1986.
+
+208
+00:08:12,228 --> 00:08:14,598
+He then developed it further in 1990.
+
+209
+00:08:15,102 --> 00:08:17,001
+The model aims to
+
+210
+00:08:17,268 --> 00:08:19,022
+reveal entreprises' international
+
+211
+00:08:19,362 --> 00:08:20,509
+expansion process.
+
+212
+00:08:20,954 --> 00:08:22,708
+It demonstrates
+
+213
+00:08:23,025 --> 00:08:25,561
+the ideal evolution of a manufacturing
+company
+
+214
+00:08:25,902 --> 00:08:27,315
+from production in its home country
+
+215
+00:08:27,315 --> 00:08:28,877
+to production in multiple countries.
+
+216
+00:08:29,087 --> 00:08:31,834
+Compared with previous models,
+
+217
+00:08:32,325 --> 00:08:34,005
+this model adds
+
+218
+00:08:34,242 --> 00:08:35,659
+the rationalization of the company's
+internal adjustment
+
+219
+00:08:36,115 --> 00:08:37,727
+and considers both
+
+220
+00:08:37,887 --> 00:08:39,558
+the investment process
+
+221
+00:08:39,801 --> 00:08:41,472
+and the withdrawal of
+
+222
+00:08:41,736 --> 00:08:43,167
+investment process.
+
+223
+00:08:43,333 --> 00:08:46,847
+That is to say, both the global
+production network
+
+224
+00:08:46,847 --> 00:08:48,885
+or we say the reorganization process of
+sales network
+
+225
+00:08:48,933 --> 00:08:51,451
+and the domestic reorganization process
+
+226
+00:08:51,478 --> 00:08:53,339
+or we say a combination of domestic and
+global ones
+
+227
+00:08:53,339 --> 00:08:54,322
+are included.
+
+228
+00:08:54,551 --> 00:08:57,351
+So the shift is a global one.
+
+229
+00:08:57,635 --> 00:08:59,395
+This model is divided into five stages.
+
+230
+00:08:59,662 --> 00:09:00,817
+Let's look at the first stage.
+
+231
+00:09:01,096 --> 00:09:03,152
+Suppose a multi-factory company
+
+232
+00:09:03,475 --> 00:09:08,405
+whose production and sales agencies are
+located in country 1.
+
+233
+00:09:08,880 --> 00:09:09,988
+And we call it the home country.
+
+234
+00:09:10,669 --> 00:09:12,299
+Enterprises supply overseas markets
+through exports.
+
+235
+00:09:13,472 --> 00:09:14,560
+In the second stage,
+
+236
+00:09:14,802 --> 00:09:16,047
+enterprises begin overseas expansion.
+
+237
+00:09:17,434 --> 00:09:18,826
+That is to say,
+
+238
+00:09:19,048 --> 00:09:21,048
+sales agencies and
+
+239
+00:09:21,306 --> 00:09:22,885
+and sales departments
+
+240
+00:09:23,691 --> 00:09:24,432
+begin to be set up.
+
+241
+00:09:24,805 --> 00:09:26,074
+The third stage,
+
+242
+00:09:26,281 --> 00:09:28,568
+enterprises begin overseas production.
+
+243
+00:09:29,054 --> 00:09:30,346
+In the diagram, we
+
+244
+00:09:30,447 --> 00:09:34,325
+can see that overseas expansion
+
+245
+00:09:34,515 --> 00:09:36,234
+also follows the order,
+
+246
+00:09:36,565 --> 00:09:40,441
+from far to near,
+
+247
+00:09:40,598 --> 00:09:42,672
+such kind of contagious diffusion rule.
+
+248
+00:09:42,832 --> 00:09:44,551
+What does overseas production mean?
+
+249
+00:09:44,580 --> 00:09:46,272
+As shown in the diagram,
+
+250
+00:09:46,521 --> 00:09:47,712
+we can see that the market
+
+251
+00:09:47,952 --> 00:09:49,081
+can be guaranteed.
+
+252
+00:09:49,662 --> 00:09:50,518
+Why?
+
+253
+00:09:50,690 --> 00:09:53,736
+This is because after the sales agents'
+market survey
+
+254
+00:09:54,011 --> 00:09:55,979
+or the sales department's operation,
+
+255
+00:09:56,290 --> 00:09:58,983
+the market is found to be optimistic
+
+256
+00:09:59,179 --> 00:10:00,047
+or we say the sold products
+
+257
+00:10:00,047 --> 00:10:01,857
+can cater for local customers.
+
+258
+00:10:02,192 --> 00:10:04,062
+In such case, the overseas production
+
+259
+00:10:04,168 --> 00:10:06,450
+will not be that risky.
+
+260
+00:10:06,642 --> 00:10:07,854
+The fourth stage,
+
+261
+00:10:07,946 --> 00:10:09,765
+international production and operation
+activities further expand.
+
+262
+00:10:09,807 --> 00:10:11,060
+In other words,
+
+263
+00:10:11,105 --> 00:10:12,897
+products are produced
+
+264
+00:10:13,081 --> 00:10:14,960
+and sold
+
+265
+00:10:15,117 --> 00:10:16,050
+in more countries.
+
+266
+00:10:16,696 --> 00:10:18,456
+At the last stage,
+
+267
+00:10:18,678 --> 00:10:20,385
+some reasonable adjustments are
+necessary.
+
+268
+00:10:20,651 --> 00:10:21,786
+That is to say, it is important to
+
+269
+00:10:22,062 --> 00:10:24,287
+optimize the international network
+
+270
+00:10:24,346 --> 00:10:26,521
+for production and management
+
+271
+00:10:26,731 --> 00:10:27,505
+both at home and abroad.
+
+272
+00:10:27,611 --> 00:10:28,927
+The right part
+
+273
+00:10:28,948 --> 00:10:30,589
+represents the production.
+
+274
+00:10:30,746 --> 00:10:32,177
+According to Hakansson,
+
+275
+00:10:32,290 --> 00:10:35,549
+within the country, different
+manufacturers in different countries
+
+276
+00:10:35,629 --> 00:10:38,091
+only responsible for part of the
+production.
+
+277
+00:10:38,346 --> 00:10:41,300
+And finally, before launching,
+
+278
+00:10:41,401 --> 00:10:42,568
+products are assembled over factories
+within another country.
+
+279
+00:10:42,616 --> 00:10:44,272
+If this, in those countries,
+
+280
+00:10:44,441 --> 00:10:45,875
+the international division of labor
+
+281
+00:10:46,020 --> 00:10:47,238
+is formed.
+
+282
+00:10:47,315 --> 00:10:49,807
+The network of supplying products to the
+global market
+
+283
+00:10:50,257 --> 00:10:51,466
+is created.
+
+284
+00:10:51,860 --> 00:10:53,256
+I guess some of you may ask
+
+285
+00:10:53,555 --> 00:10:54,767
+why it is like this.
+
+286
+00:10:54,877 --> 00:10:56,281
+Why parts of the products are produced
+in some countries but
+
+287
+00:10:56,302 --> 00:10:57,271
+assembled in
+
+288
+00:10:57,564 --> 00:10:59,217
+another country?
+
+289
+00:11:00,041 --> 00:11:01,440
+Well, there are many considerations.
+
+290
+00:11:02,023 --> 00:11:03,816
+Companies either to make full use of
+some places'
+
+291
+00:11:04,035 --> 00:11:04,714
+production capacity,
+
+292
+00:11:04,951 --> 00:11:06,548
+or their resources advantage,
+
+293
+00:11:06,755 --> 00:11:09,940
+or the cheap labor force advantage.
+
+294
+00:11:10,551 --> 00:11:11,297
+This is the first kind of consideration.
+
+295
+00:11:11,602 --> 00:11:14,296
+Another consideration is very possible.
+
+296
+00:11:14,580 --> 00:11:16,705
+That is tax avoidance,
+
+297
+00:11:16,924 --> 00:11:18,056
+which is considered by many
+multinational enterprises around the
+world.
+
+298
+00:11:19,534 --> 00:11:20,100
+Since a multinational enterprise
+
+299
+00:11:20,317 --> 00:11:22,272
+owns an internal production network,
+
+300
+00:11:23,197 --> 00:11:25,884
+it can reduce costs by exchanging
+internally.
+
+301
+00:11:27,768 --> 00:11:30,515
+In this way, the loss or
+
+302
+00:11:32,088 --> 00:11:33,810
+high product prices can be avoided
+possibly.
+
+303
+00:11:34,794 --> 00:11:35,614
+That is to say,
+
+304
+00:11:35,813 --> 00:11:39,374
+tariff barriers or some tax policies
+limitations
+
+305
+00:11:39,863 --> 00:11:43,256
+in some countries can be avoided.
+
+306
+00:11:44,139 --> 00:11:44,989
+To be more specific,
+
+307
+00:11:45,004 --> 00:11:45,795
+that is how Apple Company
+
+308
+00:11:46,924 --> 00:11:48,337
+does around the world.
+
+309
+00:11:48,657 --> 00:11:50,571
+Some enterprises in China also follow
+this rule.
+
+310
+00:11:51,007 --> 00:11:52,038
+So, before finishing this lecture,
+
+311
+00:11:52,065 --> 00:11:53,096
+I have a question for you to think
+about.
+
+312
+00:11:53,200 --> 00:11:55,934
+Since we have studied the four spatial
+expansion models,
+
+313
+00:11:55,994 --> 00:11:58,651
+try to find out the similarities and
+differences of them.
+
+314
+00:11:59,010 --> 00:12:01,040
+That's all
+
+315
+00:12:01,371 --> 00:12:02,382
+for today.
+
+316
+00:12:02,891 --> 00:12:03,528
+Thank you.
+
